@@ -2,7 +2,7 @@
 
 set -e
 
-gnumex_ver=2.06
+gnumex_ver=2.04
 
 wgetcmd=wget
 wgetcount=`which wget 2>/dev/null | wc -l`
